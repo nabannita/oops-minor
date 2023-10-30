@@ -1,6 +1,7 @@
 # oops-minor
 import java.util.Scanner;
 
+
 // Abstract class for the customer
 abstract class Customer {
     String name;
